@@ -1,2 +1,4 @@
 youtube.com
 github.com
+tenor.com
+discord.com
