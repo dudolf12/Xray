@@ -3,3 +3,4 @@ github.com
 tenor.com
 discord.com
 discord.gg
+cdn.discordapp.com
